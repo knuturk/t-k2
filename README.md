@@ -21,15 +21,15 @@ Við þurfum að passa uppá að spennugjafinn tekur næga orku í sig fyrir tö
 
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 1. Identify the problem.
-2. Establish  theory of probable cause.
-3. Test your theories to determine the acuse of the problems.
-4. Establsih a plan of action to resolve the problem and implement the solution.
-5. Verify full functionality and, if applicable, implement preventive measures.
-6. Docuements your findings, actions, and outcomes.
+2. Establish a theory of probable cause.
+3. Test your theories to determine the cause of the problems.
+4. Establish a plan of action to resolve the problem and implement the solution.
+5. Verify full functionality and if applicable implement preventive measures.
+6. Docuements your findings, actions and outcomes.
 
 ## 7.Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 
-Opinn spurning leyfir viðskiptavin að  svara í setningum eða góðri lýsingu.
+Opinn spurning leyfir viðskiptavin að  svara í setningum eða með góðri lýsingu.
 dæmi: Hvað gerist þegar þu kveikir á tölvunni.
 
 lokuð spurningum eru oftast bara já eða nei spurningar.
@@ -39,7 +39,7 @@ dæmi: er kveikt á skjánnum þínum?
 Jaðartæki eru aukahlutir fyrir tölvur
 
 ## 9. Nefndu þrjú dæmi um inntakstæki.
-Mýs,Lyklaborð og Myndavél
+lyklaborð mýs og vefmyndavélar.
 
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, mynd af íhlutnum, hvað hver íhlutur kostar og hvar hann fæst.
 
